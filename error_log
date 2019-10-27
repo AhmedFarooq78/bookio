@@ -1,0 +1,43 @@
+[09-Aug-2018 10:34:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookiopk/public_html/functions.php on line 10
+[09-Aug-2018 10:40:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bookiopk'@'192.169.80.162' (using password: YES) in /home/bookiopk/public_html/functions.php on line 10
+[09-Aug-2018 10:44:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bookiopk_idrees'@'192.169.80.162' (using password: YES) in /home/bookiopk/public_html/functions.php on line 10
+[09-Aug-2018 10:44:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bookiopk_idrees'@'192.169.80.162' (using password: YES) in /home/bookiopk/public_html/functions.php on line 10
+[14-Aug-2018 13:54:01 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 13:54:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 13:54:04 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 13:54:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 13:54:36 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 13:54:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 14:05:22 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 14:05:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/bookiopk/public_html/index5.php on line 8
+[14-Aug-2018 14:10:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:10:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:11:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:12:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:06 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on null in /home/bookiopk/public_html/index5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on null in /home/bookiopk/public_html/index5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/bookiopk/public_html/index5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookiopk/public_html/index5.php on line 3
+[14-Aug-2018 14:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/bookiopk/public_html/index5.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookiopk/public_html/index5.php on line 3
